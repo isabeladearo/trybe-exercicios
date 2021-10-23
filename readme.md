@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Isabela de Aro](www.linkedin.com/in/isabeladearo)_ durante o período que estudou na _[Trybe](https://www.betrybe.com/)_  (Início: 18/10/2021). :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Isabela de Aro](https://www.linkedin.com/in/isabeladearo)_ durante o período que estudou na _[Trybe](https://www.betrybe.com/)_  (Início: 18/10/2021). :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -8,14 +8,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web 
 
-##### Bloco 1: Introdução - Unix & Shell :hourglass_flowing_sand:
+##### Bloco 1: Introdução - Unix & Shell :white_check_mark:
 
 - [X] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+- [X] 1-4: _Unix & Shell- Part 2_
 
 ##### Bloco 2: Git & GitHub :hourglass_flowing_sand:
 
-- [ ] 2-1: _O que é e para que serve?_
+- [X] 2-1: _O que é e para que serve?_
 - [ ] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
 

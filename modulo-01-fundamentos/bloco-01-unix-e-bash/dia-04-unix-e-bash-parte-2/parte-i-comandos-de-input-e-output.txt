@@ -19,11 +19,29 @@
 
 	5.	Crie um arquivo chamado top_skills.txt usando o skills2.txt , contendo as 3 primeiras skills em ordem alfabética.
 
-
+		sort skills2.txt | head -3 > top_skills.txt 
 
 	6.	Crie um novo arquivo chamado phrases2.txt pelo terminal e adicione algumas frases de sua escolha.
+
+		touch phrases2.txt | code phrases2.txt
+
 	7.	Conte o número de linhas que contêm as letras br .
+
+		grep -n "br" phrases2.txt | wc -l
+
 	8.	Conte o número de linhas que não contêm as letras br .
+
+		grep -v "br" phrases2.txt | wc -l
+
 	9.	Adicione dois nomes de países ao final do arquivo phrases2.txt .
-	10.	Crie um novo arquivo chamado bunch_of_things.txt com os conteúdos dos arquivos phrases2.txt e countries.txt
+
+		cat >> phrases2.txt 
+
+	10.	Crie um novo arquivo chamado bunch_of_things.txt com os conteúdos dos arquivos phrases2.txt e top_skills.txt.
+	
+		touch bunch_of_things.txt
+		cat phrases2.txt top_skills.txt > bunch_of_things.txt 
+
 	11.	Ordene o arquivo bunch_of_things.txt .
+
+		sort bunch_of_things.txt 
