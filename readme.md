@@ -1,25 +1,25 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Isabela de Aro](www.linkedin.com/in/isabeladearo)_ durante o período que estudou na _[Trybe](https://www.betrybe.com/)_(Início: 18/10/2021) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Isabela de Aro](www.linkedin.com/in/isabeladearo)_ durante o período que estudou na _[Trybe](https://www.betrybe.com/)_  (Início: 18/10/2021). :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web 
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: Introdução - Unix & Shell :white_check_mark:
 
 - [ ] 1-3: _Unix & Shell- Part 1_
 - [ ] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: Git & GitHub :hourglass_flowing_sand:
 
 - [ ] 2-1: _O que é e para que serve?_
 - [ ] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: Introdução - HTML & CSS
+##### Bloco 3: Introdução - HTML & CSS :hourglass_flowing_sand:
 
 - [ ] 3-1: _HTML & CSS - Estruturas de página_
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 3-4: _HTML Semântico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 4: Introdução - JavaScript :hourglass_flowing_sand:
 
 - [ ] 4-1: _JavaScript - Primeiros passos_
 - [ ] 4-2: _JavaScript - Array e loop For_
@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: Introdução - JavaScript - Projetos :hourglass_flowing_sand:
 
 - [ ] 5-1: _JavaScript - DOM e seletores_
 - [ ] 5-2: _JavaScript - Trabalhando com elementos_
@@ -47,7 +47,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avançado
+##### Bloco 6: HTML & CSS avançado :hourglass_flowing_sand:
 
 - [ ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -56,14 +56,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Bloco 7: JavaScript ES6 & Testes Unitários :hourglass_flowing_sand:
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 7-2: _JavaScript ES6 - Objects_
 - [ ] 7-3: _Testes unitários em JavaScript_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 8: JavaScript ES6 :hourglass_flowing_sand:
 
 - [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
@@ -71,13 +71,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [ ] 8-5: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 9: Assincronicidade & Callbacks :hourglass_flowing_sand:
 
 - [ ] 9-1: _JavaScript Assíncrono e Callbacks_
 - [ ] 9-2: _JavaScript Promises_
 - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
 
-##### Bloco 10: Jest
+##### Bloco 10: Jest :hourglass_flowing_sand:
 
 - [ ] 10-1: _Primeiros passos no Jest_
 - [ ] 10-2: _Jest - Testes Assíncronos_
