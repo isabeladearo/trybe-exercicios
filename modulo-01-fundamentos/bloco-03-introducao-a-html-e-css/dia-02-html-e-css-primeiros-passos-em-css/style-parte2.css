@@ -1,0 +1,23 @@
+h1 {
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+p {
+    font-size: 600;
+    font-size: 3em;
+}
+body {
+    font-size: 16x;
+    text-align: justify;
+    line-height: 30px;
+    font-style: normal;        
+}
+#yellow {
+    background-color: yellow;
+}
+#red {
+    background-color: red;
+}
+#brown {
+    background-color: brown;
+}
