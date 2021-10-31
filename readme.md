@@ -13,18 +13,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub :hourglass_flowing_sand:
+##### Bloco 2: Git & GitHub :white_check_mark:
 
 - [X] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [X] 2-2: _Entendendo os comandos_
+- [X] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS :hourglass_flowing_sand:
 
-- [ ] 3-1: _HTML & CSS - Estruturas de página_
-- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML Semântico_
+- [X] 3-1: _HTML & CSS - Estruturas de página_
+- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [X] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [X] 3-4: _HTML Semântico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
 
 ##### Bloco 4: Introdução - JavaScript :hourglass_flowing_sand:
