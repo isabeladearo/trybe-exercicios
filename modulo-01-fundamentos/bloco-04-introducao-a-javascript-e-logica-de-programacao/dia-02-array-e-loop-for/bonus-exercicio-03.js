@@ -3,7 +3,6 @@
 
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 let newList = [];
-//let numbers = [45, 27, 57, 1330, 560, 800, 200, 70, 945, 54];
 
 for (let n = 0; n < numbers.length; n += 1) {
     if (n + 1 < numbers.length) {
