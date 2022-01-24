@@ -9,16 +9,7 @@ class App extends React.Component {
       <div>
         <h1 className='title'>Pokedex</h1>
         <div className='layout-page'>
-        { data.map((element) => 
-          <PokemonCard
-            name={element.name}
-            type={element.type}
-            value={element.averageWeight.value}
-            measurementUnit={element.averageWeight.measurementUnit}
-            image={element.image}
-            alt='Pokemon-Image'
-          />
-        ) }
+        { data.map((item) => <PokemonCard key={item.id} itemInfo={item} />) }
         </div>
       </div>
       
