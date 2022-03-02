@@ -83,42 +83,42 @@ Início do curso: Outubro/2021 - Previsão de conclusão: Outubro/2022
 
 ##### Bloco 10: Introdução - React
 
-- [X] 11-1: _'Hello, world!' no React!_
-- [X] 11-2: _Componentes React_
-- [X] 11-3: _[Projeto - Sistema Solar]()_
+- [X] 10-1: _'Hello, world!' no React!_
+- [X] 10-2: _Componentes React_
+- [X] 10-3: _[Projeto - Sistema Solar]()_
 
 ##### Bloco 11: React
 
-- [X] 12-1: _Components com estado e eventos_
-- [X] 12-2: _Formulários no React_
-- [X] 12-3: _[Projeto - Tryunfo]()_
+- [X] 11-1: _Components com estado e eventos_
+- [X] 11-2: _Formulários no React_
+- [X] 11-3: _[Projeto - Tryunfo]()_
 
 ##### Bloco 12: React
 
-- [X] 13-2: _Ciclo de vida de componentes em React_
-- [X] 13-3: _React Router_
-- [X] 13-4: _[Projeto - TrybeTunes]()_
+- [X] 12-2: _Ciclo de vida de componentes em React_
+- [X] 12-3: _React Router_
+- [X] 12-4: _[Projeto - TrybeTunes]()_
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [X] 14-1: _Metodologias Ágeis_
-- [X] 14-2: _[Projeto - Frontend Online Store]()_
+- [X] 13-1: _Metodologias Ágeis_
+- [X] 13-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 14: Testes em React
 
-- [X] 15-1: _Testando React com a React Testing Library - Primeiros Passos_
-- [X] 15-2: _Testando React com a React Testing Library - Mocks e Inputs_
-- [X] 15-3: _Testando React Router_
-- [X] 15-4: _[Projeto - Testes em React]()_
+- [X] 14-1: _Testando React com a React Testing Library - Primeiros Passos_
+- [X] 14-2: _Testando React com a React Testing Library - Mocks e Inputs_
+- [X] 14-3: _Testando React Router_
+- [X] 14-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 15: Gerenciamento de Estado com Redux
 
-- [X] 16-1: _Introdução ao Redux - O Estado Global da Aplicação_
-- [X] 16-2: _Usando o Redux no React_
-- [X] 16-3: _Usando o Redux no React - Prática_
-- [X] 16-4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 16-5: _Testes em React-Redux_
-- [ ] 16-6: _[Projeto - Trybe Wallet]()_
+- [X] 15-1: _Introdução ao Redux - O Estado Global da Aplicação_
+- [X] 15-2: _Usando o Redux no React_
+- [X] 15-3: _Usando o Redux no React - Prática_
+- [X] 15-4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 15-5: _Testes em React-Redux_
+- [ ] 15-6: _[Projeto - Trybe Wallet]()_
 
 ##### Bloco 16: Projeto React
 
