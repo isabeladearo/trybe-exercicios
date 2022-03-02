@@ -1,10 +1,10 @@
-# Trybe
+## Trybe - Exercícios
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Isabela de Aro](https://www.linkedin.com/in/isabeladearo)_ durante o período que estudou na _[Trybe](https://www.betrybe.com/)_  (Início: 18/10/2021). :rocket:
+Este repositório contém todos os exercícios de aprendizagem desenvolvidas por mim _[Isabela de Aro](https://www.linkedin.com/in/isabeladearo)_ durante o período de estudo na _[Trybe](https://www.betrybe.com/)_.
 
-_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
-
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+```
+Início do curso: Outubro/2021 - Previsão de conclusão: Outubro/2022
+```
 
 ## Fundamentos do Desenvolvimento Web 
 
@@ -41,11 +41,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [X] 5-5: _[Projeto - Meme Generator](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-01-fundamentos-do-desenvolvimento-web/project-meme-generator)_
-- [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-01-fundamentos-do-desenvolvimento-web/project-pixels-art)_
-- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-01-fundamentos-do-desenvolvimento-web/project-todo-list)_
-- [X] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-01-fundamentos-do-desenvolvimento-web/project-color-guess)_
-- [X] 5-7: _[Projeto - Carta Misteriosa](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-01-fundamentos-do-desenvolvimento-web/project-mistery-letter)_
+- [X] 5-5: _[Projeto - Meme Generator]()_
+- [X] 5-6: _[Projeto - Arte com Pixels]()_
+- [X] 5-7: _[Projeto - Lista de tarefas]()_
+- [X] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [X] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS avançado 
 
@@ -54,72 +54,73 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-3: _CSS Flexbox - Part 1_
 - [X] 6-4: _CSS Flexbox - Part 2_
 - [X] 6-5: _CSS Responsivo - Mobile First_
-- [X] 6-6: _[Projeto - Trybewarts](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-01-fundamentos-do-desenvolvimento-web/project-trybewarts)_
+- [X] 6-6: _[Projeto - Trybewarts]()_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários 
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Fluxo de exceção e Objectos_
 - [X] 7-3: _Primeiros Passos em Jest_
-- [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-01-fundamentos-do-desenvolvimento-web/project-js-unit-tests)_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [X] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [X] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [X] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions
+- [X] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [X] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [X] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [X] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [X] 8-6: _[Projeto - Zoo functions]()_
 
 ##### Bloco 9: Assincronicidade & Callbacks 
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
-- [ ] 9-3: _Jest - Testes Assíncronos_
-- [ ] 9-4: _[Projeto - Carrinho de Compras]()_
+- [X] 9-1: _JavaScript Assíncrono e Callbacks_
+- [X] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
+- [X] 9-3: _Jest - Testes Assíncronos_
+- [X] 9-4: _[Projeto - Carrinho de Compras]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: Introdução - React
+##### Bloco 10: Introdução - React
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [X] 11-1: _'Hello, world!' no React!_
+- [X] 11-2: _Componentes React_
+- [X] 11-3: _[Projeto - Sistema Solar]()_
+
+##### Bloco 11: React
+
+- [X] 12-1: _Components com estado e eventos_
+- [X] 12-2: _Formulários no React_
+- [X] 12-3: _[Projeto - Tryunfo]()_
 
 ##### Bloco 12: React
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [X] 13-2: _Ciclo de vida de componentes em React_
+- [X] 13-3: _React Router_
+- [X] 13-4: _[Projeto - TrybeTunes]()_
 
-##### Bloco 13: React
+##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [X] 14-1: _Metodologias Ágeis_
+- [X] 14-2: _[Projeto - Frontend Online Store]()_
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 14: Testes em React
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [X] 15-1: _Testando React com a React Testing Library - Primeiros Passos_
+- [X] 15-2: _Testando React com a React Testing Library - Mocks e Inputs_
+- [X] 15-3: _Testando React Router_
+- [X] 15-4: _[Projeto - Testes em React]()_
 
-##### Bloco 15: Testes em React
+##### Bloco 15: Gerenciamento de Estado com Redux
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [X] 16-1: _Introdução ao Redux - O Estado Global da Aplicação_
+- [X] 16-2: _Usando o Redux no React_
+- [X] 16-3: _Usando o Redux no React - Prática_
+- [X] 16-4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 16-5: _Testes em React-Redux_
+- [ ] 16-6: _[Projeto - Trybe Wallet]()_
 
-##### Bloco 16: Introdução ao Redux
-
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
-
-##### Bloco 17: Projeto React
+##### Bloco 16: Projeto React
 
 - [ ] 17-1: _[Projeto - Jogo de Trivia]()_
 
