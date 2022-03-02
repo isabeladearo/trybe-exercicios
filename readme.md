@@ -87,29 +87,29 @@ Início do curso: Outubro/2021 - Previsão de conclusão: Outubro/2022
 - [X] 10-2: _Componentes React_
 - [X] 10-3: _[Projeto - Sistema Solar]()_
 
-##### Bloco 11: React
+##### Bloco 11: Componentes com Estado, Eventos e Formulários React
 
 - [X] 11-1: _Components com estado e eventos_
 - [X] 11-2: _Formulários no React_
 - [X] 11-3: _[Projeto - Tryunfo]()_
 
-##### Bloco 12: React
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
 - [X] 12-2: _Ciclo de vida de componentes em React_
 - [X] 12-3: _React Router_
-- [X] 12-4: _[Projeto - TrybeTunes]()_
+- [X] 12-4: _[Projeto - TrybeTunes](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-02-desenvolvimento-front-end/sd-018-a-project-trybetunes)_
 
 ##### Bloco 13: Metodologias Ágeis
 
 - [X] 13-1: _Metodologias Ágeis_
-- [X] 13-2: _[Projeto - Frontend Online Store]()_
+- [X] 13-2: _[Projeto - Frontend Online Store](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-02-desenvolvimento-front-end/project-frontend-online-store)_
 
 ##### Bloco 14: Testes em React
 
 - [X] 14-1: _Testando React com a React Testing Library - Primeiros Passos_
 - [X] 14-2: _Testando React com a React Testing Library - Mocks e Inputs_
 - [X] 14-3: _Testando React Router_
-- [X] 14-4: _[Projeto - Testes em React]()_
+- [X] 14-4: _[Projeto - Testes em React](https://github.com/isabeladearo/trybe-projetos/tree/master/modulo-02-desenvolvimento-front-end/project-react-testing-library)_
 
 ##### Bloco 15: Gerenciamento de Estado com Redux
 
